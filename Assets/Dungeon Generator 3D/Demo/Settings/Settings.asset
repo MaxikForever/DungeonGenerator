@@ -50,7 +50,7 @@ MonoBehaviour:
       name: Floor
     - gameObject: {fileID: 8761019777689142071, guid: 1adcf48a6c090f042a8c900b6762b63a, type: 3}
       name: Floor
-    player: {fileID: 601499947787028150, guid: 890009b8880e4e8429fb65b975201821, type: 3}
+    player: {fileID: 5241267463746980526, guid: f2e0b7ae4dae8cf44955bccd3512b213, type: 3}
     minEnemiesPerRoom: 1
     maxEnemiesPerRoom: 2
     enemies:
